@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://saximoug.github.io/sitemap
+Sitemap: https://saximoug.github.io/app/sitemap
+Sitemap: https://saximoug.github.io/assets/sitemap
+Sitemap: https://saximoug.github.io/css/sitemap
+Sitemap: https://saximoug.github.io/includes/sitemap
+Sitemap: https://saximoug.github.io/item/sitemap
+Sitemap: https://saximoug.github.io/src/sitemap
